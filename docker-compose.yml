@@ -7,7 +7,7 @@ x-common:
     MYSQL_ROOT_PASSWORD: "CHANGE_ME_TOO"
   panel:
     &panel-environment
-    APP_URL: "http://localhost:8030"
+    APP_URL: "https://humble-parakeet-gxq4v6q6gvvghw4xp-8030.app.github.dev/auth/login"
     APP_TIMEZONE: "UTC"
     APP_SERVICE_AUTHOR: "noreply@example.com"
     TRUSTED_PROXIES: "*"
