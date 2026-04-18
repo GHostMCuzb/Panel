@@ -7,7 +7,7 @@ x-common:
     MYSQL_ROOT_PASSWORD: "CHANGE_ME_TOO"
   panel:
     &panel-environment
-    APP_URL: "https://pterodactyl.example.com"
+    APP_URL: "http://localhost:8030"
     APP_TIMEZONE: "UTC"
     APP_SERVICE_AUTHOR: "noreply@example.com"
     TRUSTED_PROXIES: "*"
